@@ -26,7 +26,7 @@
 ---
 
 ## 📄 Resume  
-📥 **Download My Resume:** [Click Here](https://github.com/ShrutikBhatt/ShrutikBhatt/raw/main/Resume.pdf)
+📥 **Download My Resume:** [Click Here](https://github.com/bhattshrutik/bhattshrutik/blob/main/Resume.pdf)
 
 ---
 
