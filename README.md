@@ -26,10 +26,10 @@
   <a href="https://www.linkedin.com/in/shrutik-bhatt-9199b91b1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/bhatt_shrutik">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_X_HANDLE">
+  <a href="https://twitter.com/bhatt_shrutik">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
